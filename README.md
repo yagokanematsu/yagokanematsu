@@ -1,2 +1,3 @@
-## Olá 👋
-<h2>Estudante do IFBA - Campus Barreiras</h2>
+<h2>Olá 👋</h2> 
+Estudante do IFBA - Campus Barreiras
+
